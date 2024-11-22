@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Cybersecurity**
 
-- 👨‍💻 All of my projects are available at [Here](Here)
+- :ok_hand: All of my projects are available at Here
 
-- 📝 I regularly write articles on [LinkedIn](LinkedIn)
+- 📝 I regularly write articles on LinkedIn
 
 - 📫 How to reach me **michele.lorenzoni@mailfence.com**
 
