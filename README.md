@@ -15,4 +15,4 @@ Socials
 
 <b>My GitHub Stats</b>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/michele-lorenzoni?cardType=level&theme=blue-green&fontFamily=Inter&preferLogin=false&Border=DD000000)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/michele-lorenzoni?cardType=level&theme=blue-green&fontFamily=&preferLogin=false&Border=DD000000)](https://git.io/awesome-stats-card)
