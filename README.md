@@ -10,7 +10,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <b>My GitHub Stats</b>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=michele-lorenzoni&theme=tokyonight-duo&hide_border=true&border_radius=0&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=ayu_mirage&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=bear)
