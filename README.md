@@ -8,6 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ![](gifs/blinkiesCafe-nF.gif)
 ![](gifs/blinkiesCafe-V9.gif)
+![](gifs/blinkiesCafe-54.gif)
 
 <b>Profile Views</b>
 
