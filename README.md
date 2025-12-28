@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Michele Lorenzoni
 ==========================================================================================================================================
 
+<b>Biography</b>
+
 *   🌍  I'm based in Italy
 *   ✉️  You can contact me at [michele.lorenzoni@mailfence.com](mailto:michele.lorenzoni@mailfence.com)
 
