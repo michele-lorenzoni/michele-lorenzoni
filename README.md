@@ -7,6 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *   ✉️  You can contact me at [michele.lorenzoni@mailfence.com](mailto:michele.lorenzoni@mailfence.com)
 
 ![](gifs/blinkiesCafe-nF.gif)
+![](gifs/blinkiesCafe-V9.gif)
 
 <b>Profile Views</b>
 
