@@ -15,6 +15,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <b>Profile Views</b>
 
 ![](gifs/flames.gif)
+<br>
 ![Profile views](https://komarev.com/ghpvc/?username=michele-lorenzoni&label=Profile%20views&color=0e75b6&style=flat)
 
 <b>Skills</b>
